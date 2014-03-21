@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<!--Translated by Telegram Team, corrected by Florian Keller-->
+<!--Translated by Young Peacock (Fabrizio Billeci, Andrea Maugeri)-->
 
 <resources>
     <string name="AppName">Telegram</string>
@@ -168,6 +168,17 @@
     <string name="GroupName">Group name</string>
     <string name="MEMBERS">MEMBERS</string>
     <string name="AllContacts">ALL CONTACTS</string>
+
+
+
+
+
+
+<!--TRANSLATION ONE-->
+
+
+
+
 
     <!--group info view-->
     <string name="EnterGroupNameTitle">ENTER GROUP NAME</string>
